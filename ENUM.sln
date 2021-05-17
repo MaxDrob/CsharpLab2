@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENUM", "ENUM\ENUM.csproj", "{DE0F5894-5842-4E06-A2D1-9D964148C238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STRUCT", "STRUCT\STRUCT.csproj", "{BCEED929-5A90-4B56-8F86-BED7F418C0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0F5894-5842-4E06-A2D1-9D964148C238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0F5894-5842-4E06-A2D1-9D964148C238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0F5894-5842-4E06-A2D1-9D964148C238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0F5894-5842-4E06-A2D1-9D964148C238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEED929-5A90-4B56-8F86-BED7F418C0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEED929-5A90-4B56-8F86-BED7F418C0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEED929-5A90-4B56-8F86-BED7F418C0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEED929-5A90-4B56-8F86-BED7F418C0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5C06C75-B264-4A87-8CA6-960DEE9F6BE2}
+	EndGlobalSection
+EndGlobal
