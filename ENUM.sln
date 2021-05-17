@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENUM", "ENUM\ENUM.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STRUCT", "STRUCT\STRUCT.csproj", "{BCEED929-5A90-4B56-8F86-BED7F418C0AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructType", "StructType\StructType.csproj", "{5ECA3A2F-D118-4F83-9235-54272E4CC77B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BCEED929-5A90-4B56-8F86-BED7F418C0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCEED929-5A90-4B56-8F86-BED7F418C0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCEED929-5A90-4B56-8F86-BED7F418C0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECA3A2F-D118-4F83-9235-54272E4CC77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECA3A2F-D118-4F83-9235-54272E4CC77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECA3A2F-D118-4F83-9235-54272E4CC77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECA3A2F-D118-4F83-9235-54272E4CC77B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

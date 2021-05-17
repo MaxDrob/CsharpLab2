@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BCEED929-5A90-4B56-8F86-BED7F418C0AE}</ProjectGuid>
+    <ProjectGuid>{5ECA3A2F-D118-4F83-9235-54272E4CC77B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>STRUCT</RootNamespace>
-    <AssemblyName>STRUCT</AssemblyName>
+    <RootNamespace>StructType</RootNamespace>
+    <AssemblyName>StructType</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Struct.cs" />
+    <Compile Include="StructType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
